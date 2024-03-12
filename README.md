@@ -1,4 +1,4 @@
-# Frontend for XYZ Application
+# Frontend for Product Management Application
 
 Welcome to the frontend repository for the XYZ application, a [React](https://reactjs.org/) based project designed to offer a robust user interface for our web application.
 
